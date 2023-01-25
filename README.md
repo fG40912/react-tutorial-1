@@ -1,5 +1,5 @@
-# react-tutorial-1
-### node version
+# React-Tutorial-1
+### Node Version
 v18.13.0
-### content
+### Content
 https://www.youtube.com/watch?v=hQAHSlTtcmY
